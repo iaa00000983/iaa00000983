@@ -7,7 +7,7 @@ namespace YourApp
 {
     public static class UpdateHelper
     {
-        private const string UpdateUrl = "https://github.com/you/YourApp/releases/latest/";
+        private const string UpdateUrl = "https://github.com/iaa00000983/Baidu_directlink/releases/latest/";
 
         public static async Task CheckUpdateSilentlyAsync(Form owner)
         {
